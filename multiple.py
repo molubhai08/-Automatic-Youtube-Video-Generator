@@ -13,7 +13,7 @@ from moviepy import ImageClip , AudioFileClip , CompositeVideoClip , concatenate
 import whisper_timestamped as whisper
 import ffmpeg
 
-os.environ['GROQ_API_KEY'] = "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"
+os.environ['GROQ_API_KEY'] = ""
 
 
 for m in range(3):
